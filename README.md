@@ -3,5 +3,5 @@
 
 
 ## I also added few more things in the above game. See below
-### More Complex Ping Pong : https://ping-ping-game-phaserjs.vercel.app/
-### More Complex Ping Pong Github : https://github.com/yashnirmal/ping-ping-game-phaserjs
+### More Complex Ping Pong : https://ping-pong-game-phaserjs.vercel.app/
+### More Complex Ping Pong Github : https://github.com/yashnirmal/ping-pong-game-phaserjs
